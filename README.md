@@ -421,3 +421,5 @@ Issue: #3
 ### 实用工具
 
 - [Git 分支演示](https://learngitbranching.js.org/?NODEMO=&locale=zh_CN)
+
+> Ver.1 by @KumaXX 
