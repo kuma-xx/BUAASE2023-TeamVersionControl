@@ -65,7 +65,7 @@
 4. 检出分支 `chore/init`；
 5. 在根目录下创建一个 `.gitignore` 文件，忽略根目录下的 `info.txt` 文件；
 6. 在根目录下创建一个 `error-logs.txt` 文件；
-7. 为仓库设置 Issue 模板，你可以参照 [GitHub 教程](https://docs.github.com/zh/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)，或 [Gitee 教程](https://gitee.com/help/articles/4145)；
+7. 为仓库设置 Issue 模板，你可以参照 [GitHub 教程](https://docs.github.com/zh/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)，或 [GitCode 教程](https://gitcode.net/gitcode/help-docs/-/wikis/docs/user/project/description-template)；
 8. 提交更改，按照合并规范操作，最终合并你的更改到 `dev` 分支；
 9. 通知团队的所有成员现在可以开始进入下一个阶段 `Task.1` 了。
 
