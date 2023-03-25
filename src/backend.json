@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "Laravel",
+            "link": "https://laravel.com/"
+        },
+        {
+            "name": "Spring Boot",
+            "link": "https://spring.io/"
+        },
+        {
+            "name": "Django",
+            "link": "https://www.djangoproject.com/"
+        }
+    ]
+}
