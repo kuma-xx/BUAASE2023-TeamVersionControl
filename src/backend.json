@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "Spring",
+      "link": "https://spring.io/"
+    },
+    {
+      "name": "Django",
+      "link": "https://www.djangoproject.com/"
+    },
+    {
+      "name": "Flask",
+      "link": "https://flask.palletsprojects.com/en/2.2.x/"
+    }
+  ]
+}
