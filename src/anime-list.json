@@ -1,16 +1,14 @@
 {
-    "data": [
-        {
-            "name": "孤独摇滚！",
-            "en-name": "Bocchi the rock!"
-        },
-        {
-            "name": "坂道上的阿波罗",
-            "en-name": "Kids on the Slope"
-        },
-        {
-            "name": "FLCL",
-            "en-name": "FLCL"
-        }
-    ]
+    "data": {
+        "names": [
+            "孤独摇滚！",
+            "坂道上的阿波罗",
+            "FLCL"
+        ],
+        "en-names": [
+            "Bocchi the rock!",
+            "Kids on the Slope",
+            "FLCL"
+        ]
+    }
 }
