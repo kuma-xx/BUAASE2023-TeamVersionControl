@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "Vue",
+            "link": "https://vuejs.org/"
+        },
+        {
+            "name": "React",
+            "link": "https://react.dev/"
+        },
+        {
+            "name": "Angular",
+            "link": "https://angular.io/"
+        }
+    ]
+}
