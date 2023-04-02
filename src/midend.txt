@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "content": "Why did the tomato turn red? Because it saw the salad dressing!",
+            "language": "English"
+        },
+        {
+            "content": "猫咪为什么喜欢看小说？因为它喜欢看『爪子』。",
+            "language": "中文"
+        },
+        {
+            "content": "What do you get when you cross a snowman and a shark? Frostbite!",
+            "language": "English"
+        }
+    ]
+}
+
